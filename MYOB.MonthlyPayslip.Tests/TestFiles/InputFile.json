@@ -1,0 +1,16 @@
+﻿[
+    {
+        "FirstName": "David",
+        "LastName": "Rudd",
+        "Salary": 60050,
+        "SuperRate": 9,
+        "PayPeriod": "01 March to 31 March"
+    },
+    {
+        "FirstName": "Ryan",
+        "LastName": "Chen",
+        "Salary": 120000,
+        "SuperRate": 10,
+        "PayPeriod": "01 March to 31 March"
+    }
+]
